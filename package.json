@@ -69,7 +69,7 @@
     "jpeg-js": "^0.4.4",
     "jsdom": "^20.0.3",
     "multispinner": "^0.2.1",
-    "plotly.js-dist-min": "^2.33.0",
+    "plotly.js-dist-min": "^2.34.0",
     "tesseract.js": "^5.1.0",
     "three": "^0.165.0",
     "vue": "^2.5.16",
