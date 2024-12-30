@@ -61,7 +61,7 @@
     "@tensorflow-models/mobilenet": "^2.1.1",
     "@tensorflow/tfjs": "^4.19.0",
     "axios": "^0.18.0",
-    "canvas": "^2.11.2",
+    "canvas": "^3.0.0",
     "dat.gui": "^0.7.9",
     "element-ui": "^2.15.14",
     "file-saver": "^2.0.5",
